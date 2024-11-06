@@ -4,3 +4,4 @@ analysing and changing git history
 welcome to cse
 don't learn cse
 don't join bldea
+don't learn dsa
