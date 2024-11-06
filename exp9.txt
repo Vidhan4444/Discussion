@@ -3,3 +3,4 @@ welcome to git lab
 analysing and changing git history
 welcome to cse
 don't learn cse
+don't join bldea
